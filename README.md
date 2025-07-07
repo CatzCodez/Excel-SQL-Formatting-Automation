@@ -8,9 +8,12 @@ This Python script processes raw Excel or CSV files into clean, SQL-importable E
 
 ## Folder Structure
 Excel_Automation/
-├── raw_reports/ # Place raw .csv or .xlsx files here
-├── cleaned_reports/ # Processed output files go here
-├── table_format.py # The script that performs formatting
+
+├── raw_reports/ --> Place raw .csv or .xlsx files here
+
+├── cleaned_reports/ --> Processed output files go here
+
+├── table_format.py --> The script that performs formatting
 
 ## How to Use
 1. Clone the repository:
