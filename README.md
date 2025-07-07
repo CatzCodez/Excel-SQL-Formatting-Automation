@@ -3,7 +3,7 @@ This Python script processes raw Excel or CSV files into clean, SQL-importable E
 - Converts column and row names to `snake_case`
 - Removes extra headers, blank rows, and noise
 - Converts numbers with commas into integers
-- Outputs formatted `.xlsx` files using Excel table formatting
+- Outputs formatted `.CSV` files using Excel table formatting
 - Saves results to the `cleaned_reports/` folder with `_formatted` added to the filename
 
 ## Folder Structure
